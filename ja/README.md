@@ -18,4 +18,4 @@
 エントリー締め切り後，大会参加者と大会運営スタッフによる投票により，最も貢献度が高い創作物を選びます。
 
 ## エントリー作品
-- [aiwolf-python](https://github.com/otk-tks/aiwolf-python) by OTSUKI Takashi
+- [aiwolf-python](https://github.com/AIWolfSharp/aiwolf-python) by AIWolfSharp

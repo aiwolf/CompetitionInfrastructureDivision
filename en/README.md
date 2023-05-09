@@ -18,4 +18,4 @@ After publishing your software, please send an email to the organizing commitee 
 - Submission deadline is August 18th, 2023 (Anywhere on Earth)
 
 ## Competition Entries
-- [aiwolf-python](https://github.com/otk-tks/aiwolf-python) by OTSUKI Takashi
+- [aiwolf-python](https://github.com/AIWolfSharp/aiwolf-python) by AIWolfSharp
