@@ -20,3 +20,4 @@
 ## エントリー作品
 - [aiwolf-python](https://github.com/AIWolfSharp/aiwolf-python) by AIWolfSharp
 - [UTRAD Werewolf](https://github.com/smikitky/utrad-werewolf) by smikitky
+- [AIWolf Analyze](https://github.com/aiwolf-ioh/aiwolfweb_front) by aiwolf team-ioh
