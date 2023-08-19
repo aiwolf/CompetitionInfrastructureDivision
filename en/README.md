@@ -10,7 +10,7 @@ For example, a platform for agent development, much improved sample agents than 
 - To participate in this division, please publish your software including the documents that describe how to use it, how to build it, etc.
 You can publish it using your favorite source-code hosting service such as GitHub, Bitbucket, Azure DevOps, etc.
 Please don't forget to apply your favorite open source license to your software.
-After publishing your software, please send an email to the organizing commitee with the link to your software.
+After publishing your software, please send an email to the organizing commitee (gm _atmark_ aiwolf.org) with the link to your software.
 - During the competition, organizers and participants of the competition will evaluate submissions and vote for the most contributing work.
 - To facilitate access, evaluation and voting, we will put the links to the submissions in this page.
 
